@@ -158,11 +158,13 @@ Example conflict response:
 
 Authentication and roles · recurring bookings · e-mail/calendar (.ics) notifications · maintenance blackout periods · per-team quotas · integration tests against a test database.
 
-## 10. Entity Relationship Diagram
+
 
 ## 10. Entity Relationship Diagram
 
 See [`docs/ER-diagram.md`](docs/ER-diagram.md) (Mermaid, renders on GitHub) and [`docs/schema.dbml`](docs/schema.dbml) (import into dbdiagram.io).
 
 Live diagram: [View on dbdiagram.io]
-https://dbdiagram.io/d/6acf385e064322c869465d53
+(https://dbdiagram.io/d/6acf385e064322c869465d53)
+
+![ER Diagram](docs/er-diagram.png)
